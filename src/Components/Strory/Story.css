@@ -1,0 +1,83 @@
+.story-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    height: 80vh;
+   
+}
+.story-left{
+    width: 30%;
+}
+.story-right{
+    width: 50%;
+}
+.view-story{
+    color: #1A7431;
+    font-size: 24px;
+    text-decoration: underline;
+}
+.ull-story{
+    color: #1A7431;
+    font-size: 24px;
+    
+}.img-before{
+    height: 34vh;
+    width: 600px;
+    border-radius: 8px;
+    border: solid 0.5px green;
+    
+}
+.img-after{
+    height: 34vh;
+    width: 600px;
+    border-radius: 8px;
+    border: solid 0.5px green;
+}
+.text-story{
+    font-size: 25px;
+    color: #00380E;
+    font-style: 'Montserrat';
+}
+.story-res{
+    font-size: 40px;
+    font-weight: 600;
+    color: #1A7431;
+    text-decoration: underline;
+    font-style: 'Montserrat';
+}
+.story-cue{
+    font-size: 40px;
+    font-weight: 600;
+    color: #1A7431;
+    font-style: 'Montserrat';
+
+}
+.story-tittle{
+    margin-right: 10%;
+}
+.story-main-tittle{
+    margin-top: 5%;
+    position: relative;
+    left: 5%;
+    width: 100%;
+}
+.story-stories{
+    font-size: 40px;
+    font-weight: 100;
+    color: #1A7431;
+    font-style: 'Montserrat';
+}
+.story-stories:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.abondoned{
+    font-size: 40px;
+    font-weight: 600;
+    color: #1A7431;
+    font-style: 'Montserrat';
+
+}

@@ -1,23 +1,31 @@
-import logo from './logo.svg';
 import './App.css';
+import Achievement from './Components/Achievement/Achievement';
+import Footer from './Components/Footer/Footer';
+import Foundation from './Components/Foundation/Foundation';
+import Foundation2 from './Components/Foundation2/Foundation2';
+import HomePage from './Components/HomePage/HomePage';
+import JoinHand from './Components/JoinHand/JoinHand';
+import Navbar from './Components/Navbar/Navbar';
+import Protecting from './Components/Protecting/Protecting';
+import RescueVan from './Components/Rescue/RescueVan';
+import Stories from './Components/Stories/Stories';
+import Story from './Components/Strory/Story';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+     <Navbar/>
+     <HomePage/>
+     <Foundation/>
+     <Foundation2/>
+     <RescueVan/>
+     <Story/>
+     <Stories/>
+     <Achievement/>    
+     <Protecting/> 
+    
+     <JoinHand/>
+      <Footer/>
     </div>
   );
 }
