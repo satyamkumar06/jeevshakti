@@ -16,6 +16,7 @@ const Foundation2 = () => {
               to all creatures big and small!</p>
               <p><span className='learn-more'>Learn</span><span className='more'> more</span></p>
         </div>
+        
     </div>
   )
 }

@@ -1,7 +1,6 @@
 import React from 'react'
 import './Story.css'
-import before from '../../assest/images/before.png'
-import after from '../../assest/images/after.png'
+
 const Story = () => {
   return (
     <div>
@@ -11,9 +10,15 @@ const Story = () => {
     
     <div className='story-container'>
     <div className='story-left'>
-    <img className='img-before' src={before} alt='before'/>
-    <img className='img-after' src={after} alt='after'/>
+
+    <div className='img-before'>
+    <p className='story-before'>Before</p>
+    </div>
+    <div className='img-after'>
+    <p className='story-after'>After</p>
+    </div>
     </div> 
+
     <div className='story-right'>
     <p className='abondoned'>Abandoned in Streets</p>
     <p className='text-story'>Lorem Ipsum is simply dummy text of the printing and typesetting industry.

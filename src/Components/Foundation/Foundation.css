@@ -24,7 +24,7 @@ p{
 
 }
 .foundation-tittle{
-    font-weight: 100;
+    font-weight: 300;
     font-size: 30px;
     color: #1A7431;
     letter-spacing: 0.2em;
@@ -41,7 +41,9 @@ p{
     margin-left: 5%;
 }
 .mainlogo1{
-    height: 200px;
-    width: 400px;
+    height: 30%;
+    width: 85%;
     margin-top: 20%;
+    object-fit: cover;
+    margin-left: 10%;
 }

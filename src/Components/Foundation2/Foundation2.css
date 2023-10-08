@@ -13,11 +13,13 @@ p{
     font-size: 28px;
 }
 .about-image{
-    height: 560px;
-    width: 500px;
+    height: 40%;
+    width: 130%;
     border-radius: 12px;
     object-fit: cover; 
     margin-left: 4%;
+    margin-top: 2%;
+    margin-bottom: 2%;
 }
 .About-style{
     color: #1A7431;

@@ -13,7 +13,7 @@ const Foundation = () => {
         <div className='foundation-right'>
         <img className='mainlogo1' src={mainlogo} alt='main-logo' />
         </div>
-    </div>
+    </div> 
   )
 }
 

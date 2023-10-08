@@ -23,7 +23,7 @@ const RescueVan = () => {
         <li>Fully Ventilated</li>
         <li>Comfortable</li> 
     </ul>
-    </div>
+    </div> 
     
     <img className='van-image' src={van} alt='rescue-van' />
 
