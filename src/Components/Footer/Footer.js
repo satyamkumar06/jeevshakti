@@ -63,6 +63,8 @@ const Footer = () => {
         </div>
         
         <p className='footer-lastline-para'>Designed by Panacee Software Solutions Pvt. Ltd.</p>
+        <p className='footer-lastline-para'>Designed by Panacee Software Solutions Pvt. Ltd.</p>
+
     </div>
   )
 }
