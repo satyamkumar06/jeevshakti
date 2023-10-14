@@ -44,20 +44,20 @@
 .text-story{
     font-size: 25px;
     color: #00380E;
-    font-style: 'Montserrat';
+    font-family: 'Mukta Vaani';
 }
 .story-res{
     font-size: 40px;
     font-weight: 600;
     color: #1A7431;
     text-decoration: underline;
-    font-style: 'Montserrat';
+    font-family: 'Mukta Vaani';
 }
 .story-cue{
     font-size: 40px;
     font-weight: 600;
     color: #1A7431;
-    font-style: 'Montserrat';
+    font-family: 'Mukta Vaani';
 
 }
 .story-tittle{
@@ -73,7 +73,7 @@
     font-size: 40px;
     font-weight: 100;
     color: #1A7431;
-    font-style: 'Montserrat';
+    font-family: 'Mukta Vaani';
 }
 .story-stories:hover{
     text-decoration: underline;
@@ -83,14 +83,14 @@
     font-size: 40px;
     font-weight: 600;
     color: #1A7431;
-    font-style: 'Montserrat';
+   font-family: 'Mukta Vaani';
 
 }
 .story-before{
     font-size: 40px;
     font-weight: 700;
     color: white;
-    font-style: 'Montserrat';
+   font-family: 'Mukta Vaani';
     position: relative;
     left: 48%;
     top: 60%;
@@ -99,7 +99,7 @@
     font-size: 40px;
     font-weight: 700;
     color: white;
-    font-style: 'Montserrat';
+    font-family: 'Mukta Vaani';
     position: relative;
     left: 50%;
     top: 60%;

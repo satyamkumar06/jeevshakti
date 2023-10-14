@@ -4,6 +4,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+    font-family: 'Mukta Vaani';
     
 }
 .left-logo{
@@ -16,7 +17,7 @@
 }
 .homepara{
     font-weight: 700;
-    font-family: 'Montserrat';
+    font-family: 'Mukta Vaani';
     color: #1A7431;
 }
 
