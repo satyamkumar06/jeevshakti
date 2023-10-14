@@ -1,12 +1,15 @@
 .protecting-container {
+    width: 90%;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     gap: 1em;
+    margin: 0 5%;
 }
 .button-event{
     grid-column: span 3;
 }
 .protecting-card {
+    width: 90%;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -18,8 +21,43 @@
     padding: 1em;
 
 }
+.pro-image{
+    width: 100%;
+    object-fit: cover;
+}
 .protecting-learn{
     width: 80%;
     padding: .75em 1.5em ;
     border-radius: 2.5em;
+}
+.Prote-header{
+    font-family: 'Mukta Vaani';
+    margin-left: 5%;
+    color:  #307A4D;
+    text-decoration: underline;
+    font-weight: 900;
+}
+.cting-header{
+    font-family: 'Mukta Vaani';
+    color:  #307A4D;
+    font-weight: 900;
+}
+.strays{
+    font-family: 'Mukta Vaani';
+    color:  #307A4D;
+    font-weight: 100;
+    letter-spacing: 0.2rem;
+}
+.button-event{
+    padding: 8px 20px;
+    font-size: 18px;
+    font-family: 'Montserrat';
+    color:  #1A7431;
+    cursor: pointer;
+    border:1px solid #1A7431;
+    height: 15%;
+    width: 28%;
+   background-color: white;
+   margin-top: 5%;
+   margin-left: 36%;
 }

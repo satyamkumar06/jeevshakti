@@ -4,6 +4,7 @@
     justify-content: space-between;  
     background-color: #F9F9DA;
     height: 85vh;
+    font-family: 'Mukta Vaani';
 }
 .van-image{
     height: 107%;
@@ -38,13 +39,13 @@
     font-size: 50px;
     line-height: 110.45px;
     text-decoration: underline; 
-    font-family: 'Montserrat';
+    font-family: 'Mukta Vaani';
 }
 .rescue-header-van{
     color: #1A7431;
     width: 2100;
     letter-spacing: 0.2rem;
-    font-family: 'Montserrat';
+    font-family: 'Mukta Vaani';
     
 }
 .rescue-tittle-escue{
@@ -52,7 +53,7 @@
     width: 700;
     font-size: 50px;
     line-height: 110.45px;
-    font-family: 'Montserrat';
+    font-family: 'Mukta Vaani';
 }
 .rescue-right-list{
     margin-left: 20%;
@@ -85,4 +86,5 @@
    border: none;
    background-color: green;
    margin-top: 25%;
+   font-family: 'Montserrat';
 }

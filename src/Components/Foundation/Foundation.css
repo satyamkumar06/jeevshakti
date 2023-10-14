@@ -4,12 +4,13 @@
     justify-content: space-between;
     height: 50vh;
     width: 100%;
+    font-family: 'Mukta Vaani';
 }
 p{
     color: #00380E;
     font-size: 28px;
     font-weight: 500;
-    font-family: 'Montserrat';
+    font-family: 'Mukta Vaani';
 }
 .jeevshakti-tittle{
     font-weight: 700;
